@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SOURCE CODE", ".", "{B16752C6-5ACA-4D62-B954-AD80CAD0B885}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SOURCE CODE"
+		Debug.AspNetCompiler.PhysicalPath = "D:\1_2012 IEEE projects\2_DOTNET\JPD1253-A NOVEL ANTI PHISHING FRAMEWORK\SOURCE CODE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SOURCE CODE\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SOURCE CODE"
+		Release.AspNetCompiler.PhysicalPath = "D:\1_2012 IEEE projects\2_DOTNET\JPD1253-A NOVEL ANTI PHISHING FRAMEWORK\SOURCE CODE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SOURCE CODE\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4306"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16752C6-5ACA-4D62-B954-AD80CAD0B885}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B16752C6-5ACA-4D62-B954-AD80CAD0B885}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
